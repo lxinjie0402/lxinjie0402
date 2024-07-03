@@ -2,13 +2,9 @@
 
 - 💬 My name is LIM XIN JIE
 - 🌱 I’m currently learning Diploma in Information Technology at TARUMT Setapak,KL
--  🤔 I’m looking for **October IT internship**
+-  🤔 I’m looking for **October **three-months IT internship**
 -  ⚡ CGPA : 3.4795
 
-- As an IT student, I have acquired basic computer knowledge and skills such as basic IT knowledge,
-- such as SQL, MySQL, programming languages, HTML, CSS, PHP, and JavaScript.
-- Furthermore, I have self-learning skills such as Python and make software with online training.
-- Now, I am seeking for a **three-months** IT internship.
 <!--
 **lxinjie0402/lxinjie0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
